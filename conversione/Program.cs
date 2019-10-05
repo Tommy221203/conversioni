@@ -8,6 +8,7 @@ namespace conversione
         {
             Console.WriteLine("inserisci il numero da convertire");
             int n=int.Parse(Console.ReadLine());
+            Convert.
 
         }
     }
